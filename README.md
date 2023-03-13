@@ -1,1 +1,1 @@
-# pythonbeginner
+# Sample project ideas
