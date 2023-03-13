@@ -6,8 +6,8 @@ In this project, you will create a program that calculates a student's grade bas
 
 ### Here are the requirements for the project:
 
-* Prompt the user to enter the number of assignments and tests.
-* For each assignment, prompt the user to enter the score and weight (as a percentage) of the assignment.
+1. Prompt the user to enter the number of assignments and tests.
+1.  For each assignment, prompt the user to enter the score and weight (as a percentage) of the assignment.
 * For each test, prompt the user to enter the score and weight (as a percentage) of the test.
 * Validate the user's input to ensure that they are valid numbers.
 * Calculate the weighted average of the assignment and test scores to determine the student's overall grade.
