@@ -1,4 +1,3 @@
-
 # Sample programs to practice
 
 Here is the sample programming questions to practice. Try them to code yourself. If you want help, you can download the program files (.py) from the repository.
