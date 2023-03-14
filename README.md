@@ -2,11 +2,17 @@
 
 ### 1. Simple calculator
 Build a simple calculator program that can add, subtract, multiply, and divide two numbers.
+
 ### 2. Simple imput/print program
 Create a program that asks the user for their name, age, and favorite color, and then prints out a message that includes this information.
+
 ### 3. Check prime number 
 Write a program that asks the user for a number, and then checks whether it is prime or not.
-### 4. Grade Calculator: 
+
+### 4. BMI Calculator 
+In this program, the user enters their height and weight and the program calculates their Body Mass Index (BMI) and provides a message indicating whether they are underweight, normal weight, overweight, or obese.
+
+### 5. Grade Calculator: 
 In this project, you will create a program that calculates a student's grade based on their scores on various assignments and tests. The program will use control structures to handle input validation and calculate the final grade based on a predefined grading scale.
 
 Here are the requirements for the project:
