@@ -1,6 +1,6 @@
 # Sample project ideas
 
-## Simple calculator
+### 1. Simple calculator
 Build a simple calculator program that can add, subtract, multiply, and divide two numbers.
 ## Simple imput/print program
 Create a program that asks the user for their name, age, and favorite color, and then prints out a message that includes this information.
