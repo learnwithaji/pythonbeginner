@@ -1,13 +1,13 @@
 
 # Sample project ideas
 
-### 1. Simple calculator
+### 1. Simple calculator (calculator.py)
 Build a simple calculator program that can add, subtract, multiply, and divide two numbers.
 
 ### 2. Simple imput/print program
 Create a program that asks the user for their name, age, and favorite color, and then prints out a message that includes this information.
 
-### 3. Check prime number 
+### 3. Check prime number (checkprime.py)
 Write a program that asks the user for a number, and then checks whether it is prime or not.
 
 ### 4. BMI Calculator 
