@@ -1,6 +1,5 @@
 
-# Sample project ideas
-
+# Sample programs to practice
 ### 1. Simple calculator (calculator.py)
 Build a simple calculator program that can add, subtract, multiply, and divide two numbers.
 
