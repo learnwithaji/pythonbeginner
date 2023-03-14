@@ -1,7 +1,9 @@
 # Sample project ideas
 
-## 1. Grade Calculator 
-
+## Build a simple calculator program that can add, subtract, multiply, and divide two numbers.
+## Create a program that asks the user for their name, age, and favorite color, and then prints out a message that includes this information.
+## Write a program that asks the user for a number, and then checks whether it is prime or not.
+## Grade Calculator: 
 In this project, you will create a program that calculates a student's grade based on their scores on various assignments and tests. The program will use control structures to handle input validation and calculate the final grade based on a predefined grading scale.
 
 Here are the requirements for the project:
