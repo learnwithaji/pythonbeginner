@@ -10,7 +10,7 @@ Create a program that asks the user for their name, age, and favorite color, and
 ### 3. Check prime number (checkprime.py)
 Write a program that asks the user for a number, and then checks whether it is prime or not.
 
-### 4. BMI Calculator 
+### 4. BMI Calculator (checkbmi.py)
 In this program, the user enters their height and weight and the program calculates their Body Mass Index (BMI) and provides a message indicating whether they are underweight, normal weight, overweight, or obese.
 
 ### 5. Grade Calculator: 
