@@ -1,6 +1,6 @@
 # Sample project ideas
 
-## 1. Grade Calculator - Click here
+## 1. Grade Calculator 
 
 In this project, you will create a program that calculates a student's grade based on their scores on various assignments and tests. The program will use control structures to handle input validation and calculate the final grade based on a predefined grading scale.
 
