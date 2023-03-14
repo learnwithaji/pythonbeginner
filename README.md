@@ -13,7 +13,7 @@ Write a program that asks the user for a number, and then checks whether it is p
 ### 4. BMI Calculator (checkbmi.py)
 In this program, the user enters their height and weight and the program calculates their Body Mass Index (BMI) and provides a message indicating whether they are underweight, normal weight, overweight, or obese.
 
-### 5. Grade Calculator: 
+### 5. Grade Calculator: (studentsgrade.py)
 In this project, you will create a program that calculates a student's grade based on their scores on various assignments and tests. The program will use control structures to handle input validation and calculate the final grade based on a predefined grading scale.
 
 Here are the requirements for the project:
