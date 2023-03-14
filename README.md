@@ -4,7 +4,7 @@
 ### 1. Simple calculator (calculator.py)
 Build a simple calculator program that can add, subtract, multiply, and divide two numbers.
 
-### 2. Simple imput/print program
+### 2. Simple imput/print program (userdata.py)
 Create a program that asks the user for their name, age, and favorite color, and then prints out a message that includes this information.
 
 ### 3. Check prime number (checkprime.py)
