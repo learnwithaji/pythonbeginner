@@ -1,7 +1,7 @@
 
 # Sample programs to practice
 
-Here is the sample program progrmming questions to practice. Try them to code yourself. If you want you can download the program files from the repository.
+Here is the sample program progrmming questions to practice. Try them to code yourself. If you want help, you can download the program files from the repository.
 File name of each program is given in the parenthesis.
 
 ### 1. Simple calculator (calculator.py)
