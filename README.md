@@ -28,7 +28,7 @@ Here are the requirements for the project:
 
 To implement this project, you will need to use loops (for) to iterate over the assignments and tests and calculate the weighted average of the scores. You can also use conditional statements (if/elif/else) to assign the appropriate letter grade based on the final grade.
 
-### 6. Write a program to write Fibonacci series (fibonacc.py)
+### 6. Write a program to write Fibonacci series (fibonacci.py)
 
 The Fibonacci series is a sequence of numbers in which each number is the sum of the two preceding numbers. The series starts with 0 and 1, and each subsequent number is the sum of the two previous numbers. 
 
