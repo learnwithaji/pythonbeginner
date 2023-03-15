@@ -1,3 +1,4 @@
+#Enter the number
 n = int(input("Enter the number of Fibonacci numbers to generate: "))
 
 # initialize the first two numbers in the series
