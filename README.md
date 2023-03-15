@@ -27,3 +27,13 @@ Here are the requirements for the project:
 6. Print the final grade and letter grade to the console.
 
 To implement this project, you will need to use loops (for) to iterate over the assignments and tests and calculate the weighted average of the scores. You can also use conditional statements (if/elif/else) to assign the appropriate letter grade based on the final grade.
+
+### 6. Write a program to write Fibonacci series (fibonacc.py)
+
+The Fibonacci series is a sequence of numbers in which each number is the sum of the two preceding numbers. The series starts with 0 and 1, and each subsequent number is the sum of the two previous numbers. In mathematical terms, it can be defined as:
+
+F(0) = 0
+F(1) = 1
+F(n) = F(n-1) + F(n-2) for n > 1
+
+So the first few numbers in the Fibonacci series are 0, 1, 1, 2, 3, 5, 8, 13, 21, and so on. The series is named after Leonardo Fibonacci, an Italian mathematician who introduced the series to the western world in his book Liber Abaci, published in 1202. The Fibonacci series appears in many areas of mathematics and science, including number theory, geometry, and biology.
