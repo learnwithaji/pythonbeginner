@@ -36,3 +36,6 @@ So the first few numbers in the Fibonacci series are 0, 1, 1, 2, 3, 5, 8, 13, 21
 
 ### 7. Python functions question (calculate_discounted_price.py)
 Write a function calculate_discounted_price that takes in three parameters: price, discount_percentage, and tax_percentage. The function should calculate the discounted price by applying the discount percentage to the original price, and then adding the tax amount to the discounted price. The function should return the final discounted price.
+
+### 8. Programming exercise using Python lists (python_lists.py)
+Create a program that keeps a list of tourist places in Kerala and their details. The program should allow the user to enter a place name and display its details. The program should also have the option to add a new place and its details to the list.
