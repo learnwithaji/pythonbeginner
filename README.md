@@ -39,3 +39,7 @@ Write a function calculate_discounted_price that takes in three parameters: pric
 
 ### 8. Programming exercise using Python lists (python_lists.py)
 Create a program that keeps a list of tourist places in Kerala and their details. The program should allow the user to enter a place name and display its details. The program should also have the option to add a new place and its details to the list.
+
+### 9. Exercise demonstrate list comprehension
+Suppose you have a list of temperatures in Celsius and you want to convert them to Fahrenheit using the formula F = C * 9/5 + 32. 
+You can use list comprehension to create a new list of Fahrenheit temperatures in a single line of code.

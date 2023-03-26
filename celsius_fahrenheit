@@ -1,0 +1,16 @@
+'''
+The code fahrenheit_temps = [(temp * 9/5) + 32 for temp in celsius_temps] is an example of list comprehension in Python.
+This code takes a list of temperatures in Celsius, celsius_temps, and converts each temperature to Fahrenheit using the formula (temp * 9/5) + 32. The resulting list of temperatures in Fahrenheit is assigned to the variable fahrenheit_temps.
+The list comprehension consists of three parts:
+
+1. The first part, (temp * 9/5) + 32, is the expression that will be evaluated for each item in the iterable.
+2. The second part, for temp in celsius_temps, is the iteration over each item in the iterable, celsius_temps.
+3. The third part, [ ], is the enclosing square brackets that create the new list from the resulting expression.
+
+Therefore, this code takes each temperature in celsius_temps, multiplies it by 9/5, adds 32, and then adds the result to the new list fahrenheit_temps.
+'''
+celsius_temps = [22, 25, 30, 18, 20]
+print(celsius_temps)
+fahrenheit_temps = [(temp * 9/5) + 32 for temp in celsius_temps]
+print(fahrenheit_temps)
+
