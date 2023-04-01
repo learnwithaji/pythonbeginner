@@ -43,3 +43,20 @@ Create a program that keeps a list of tourist places in Kerala and their details
 ### 9. Exercise demonstrate list comprehension (celsius_fahrenheit)
 Suppose you have a list of temperatures in Celsius and you want to convert them to Fahrenheit using the formula F = C * 9/5 + 32. 
 You can use list comprehension to create a new list of Fahrenheit temperatures in a single line of code.
+
+### 10. Exercise demonstrate dictionary comprehension (dictionary_menu.py)
+You are working in a restaurant and want to keep track of the food items being ordered by customers. Write a program that allows you to do the following:
+
+1. Create an empty dictionary to store the food items and their prices.
+2. Allow the user to add new food items to the dictionary along with their prices.
+3. Display the current menu with all the food items and their prices.
+4. Allow the user to search for a particular food item and display its price.
+5. Allow the user to remove a food item from the menu.
+6. Calculate the total revenue earned by the restaurant based on the number of items sold and their prices.
+7. You can use the following menu items and their prices as a starting point:
+
+menu = {'Appam': 40,
+'Puttu': 35,
+'Dosa': 50,
+'Idiyappam': 40,
+'Parotta': 30}
