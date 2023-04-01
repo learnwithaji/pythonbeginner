@@ -53,7 +53,8 @@ You are working in a restaurant and want to keep track of the food items being o
 4. Allow the user to search for a particular food item and display its price.
 5. Allow the user to remove a food item from the menu.
 6. Calculate the total revenue earned by the restaurant based on the number of items sold and their prices.
-7. You can use the following menu items and their prices as a starting point:
+
+You can use the following menu items and their prices as a starting point:
 
 menu = {'Appam': 40,
 'Puttu': 35,
