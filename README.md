@@ -62,7 +62,7 @@ menu = {'Appam': 40,
 'Idiyappam': 40,
 'Parotta': 30}
 
-### 11. Basic file operations
+### 11. Basic file operations (python-file.py)
 
 You are working for a supermarket and need to create a program that can read and write to a file containing the inventory of products in the store. The file should contain the following information for each product:
 
