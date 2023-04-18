@@ -61,3 +61,19 @@ menu = {'Appam': 40,
 'Dosa': 50,
 'Idiyappam': 40,
 'Parotta': 30}
+
+### 11. Basic file operations
+
+You are working for a supermarket and need to create a program that can read and write to a file containing the inventory of products in the store. The file should contain the following information for each product:
+
+* Product name
+* Price
+* Quantity in stock
+
+Your program should allow the user to perform the following actions:
+1. Add a new product to the inventory
+2. Update the quantity of an existing product in the inventory
+3. Display the current inventory
+4. Save changes to the file and exit the program
+
+When the program starts, it should read the existing inventory file (if it exists) and load the product information into memory. When the user makes changes to the inventory, the program should update the in-memory data and also write the changes back to the file before exiting.
