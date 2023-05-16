@@ -77,3 +77,15 @@ Your program should allow the user to perform the following actions:
 4. Save changes to the file and exit the program
 
 When the program starts, it should read the existing inventory file (if it exists) and load the product information into memory. When the user makes changes to the inventory, the program should update the in-memory data and also write the changes back to the file before exiting.
+
+### 12. Creater a shopping cart module (shopping_cart.py, shopping.py)
+Create a Python module called "shopping_cart" that simulates a retail shopping cart. Your module should contain the following five functions:
+
+1. add_item(item_name: str, price: float) -> None: This function should add an item to the shopping cart. The item should be represented as a dictionary with keys "name" and "price".
+2. remove_item(item_name: str) -> None: This function should remove an item from the shopping cart.
+3. get_total() -> float: This function should return the total cost of all items in the shopping cart.
+4. get_items() -> list: This function should return a list of all items in the shopping cart.
+5. checkout() -> None: This function should print out a receipt with a list of all items in the shopping cart, their prices, and the total cost.
+
+Your module should be able to handle multiple shopping carts, each with their own set of items.
+To test your module, create a script that imports the shopping_cart module and uses it to simulate a few shopping transactions.
