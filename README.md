@@ -90,4 +90,4 @@ Create a Python module called "shopping_cart" that simulates a retail shopping c
 Your module should be able to handle multiple shopping carts, each with their own set of items.
 To test your module, create a script that imports the shopping_cart module and uses it to simulate a few shopping transactions.
 
-### 13. and later videos: For the source code of the remaining videos, look for the folder starting with the video number. 📂🔢
+### 13 and later videos: For the source code of the remaining videos, look for the folder starting with the video number. These are PyCharm projects. If you just need the Python code, use the .py files from the folder.
