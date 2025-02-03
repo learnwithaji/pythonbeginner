@@ -1,0 +1,8 @@
+CRITICAL:root:Division by zero in critical operation!
+2025-01-24 22:43:00,811 - C:\Users\ajial\PycharmProjects\71 exception and logging\14-loging-format.py - 8 - Division by zero in critical operation!
+ 2025-01-24 22:45:34,714 - Division by zero in critical operation!
+Traceback (most recent call last):
+  File "C:\Users\ajial\PycharmProjects\71 exception and logging\14-with stack trace.py", line 6, in <module>
+    result = 10 / 0
+             ~~~^~~
+ZeroDivisionError: division by zero
